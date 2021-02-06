@@ -1,9 +1,11 @@
 RAJOUTER Lorem ipsum dolor sit amet,  
 consectetuer adipiscing elit.  
-Asssssenean commodo ligula eget dolor.  
-Asssenean massa.  
+bla bla bla bla Asssssenean commodo ligula eget dolor.
+bla bla bla bla  Asssenean massa.
 JE RAJOUTE UNE LIGNE
-Cum sociis natoque penatibus et magnis dis parturient montes,  
+bla bla bla bla Asssssenean commodo ligula eget dolor.
+bla bla bla bla  Asssenean massa.
+Cum sociis natoque penatibus et magnis dis parturient montes,
 nascetur ridiculus mus.  
 Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.  
 Nulla consequat massa quis enim.  
